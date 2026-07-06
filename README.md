@@ -35,3 +35,13 @@ This project analyzes an E-Commerce sales dataset using Power BI. The dashboard 
 - Total Quantity Sold: 38K
 # E-Commerce-Sales-Dashboard-PowerBI
 Interactive E-Commerce Sales Dashboard built using Power BI.
+
+## Skills
+
+- Python
+- Pandas
+- SQL
+- MySQL
+- Power BI
+- Data Cleaning
+- Data Visualization
