@@ -19,10 +19,33 @@ This project analyzes an E-Commerce sales dataset using Power BI. The dashboard 
 - MySQL
 - CSV Dataset
 
+## 🔄 Project Workflow
+
+```text
+Raw CSV Dataset
+       │
+       ▼
+Python (Pandas)
+Data Cleaning & Transformation
+       │
+       ▼
+MySQL Database
+Data Storage
+       │
+       ▼
+SQL Queries
+Business Analysis
+       │
+       ▼
+Power BI
+Interactive Dashboard & Insights
+```
+
 ## 📁 Files Included
 - Ecommerce_Sales_Dashboard.pbix
 - cleaned_superstore.csv
 - Dashboard Screenshot
+- sql_queries.sql
 
 ## 📷 Dashboard Preview
 
