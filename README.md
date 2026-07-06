@@ -1,4 +1,15 @@
-# E-Commerce Sales Dashboard (Power BI)
+# 📊 E-Commerce Sales Dashboard using Power BI, Python & MySQL
+
+An end-to-end Data Analytics project that demonstrates data cleaning, SQL analysis, and interactive dashboard development using the Superstore dataset.
+
+## 🛠 Tech Stack
+
+- Power BI
+- Python (Pandas)
+- MySQL
+- SQL
+- VS Code
+- GitHub
 
 ## 📌 Project Overview
 This project analyzes an E-Commerce sales dataset using Power BI. The dashboard provides insights into sales performance, profit, quantity sold, regional performance, and product categories.
